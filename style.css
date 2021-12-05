@@ -1,0 +1,19 @@
+body {
+    background:rgb(255, 255, 255);
+    color:crimson;
+
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+
+}
+#camera{
+    border: 2px dashed crimson;
+    height: 300px;
+    width: 350px;
+}
+.name_of_objects , #result_object_name , #result_object_accuracy {
+    color:crimson;
+    
+}
